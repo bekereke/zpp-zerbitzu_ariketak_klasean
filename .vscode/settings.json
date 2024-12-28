@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "library/**/*.jar",
+        "C:/Users/Aitor/Desktop/PAAG3/ZPP/ARIKETAK/zpp-zerbitzu_ariketak_klasean/FTP_ADIBIDEAK/lib/commons-net-3.11.1.jar",
+        "commons-net-3.11.1/commons-net-3.11.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "FTP_ADIBIDEAK",
+        "ftpkonektatu/src/main/java/paagbi"
+    ]
+}
